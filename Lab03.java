@@ -58,6 +58,10 @@ public class Lab03 {
                FAM.move();
             BRUV.move();
                FAM.turnRight();
-            BRUV.turnRight();          
+            BRUV.turnRight();
+            
+                        
+            
+                    
      }   
 }
